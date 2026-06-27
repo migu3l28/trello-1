@@ -14,3 +14,23 @@ def actualizar_registro(id_registro):
 
 def borrar_registro(id_registro):
     pass  # Aquí programarás tú el borrado
+
+# Estructura inicial del CRUD
+
+def crear_usuario():
+    # TODO: Trabajo de tu compañera
+    pass
+
+def leer_usuarios():
+    # TODO: Trabajo de tu compañera
+    pass
+
+def actualizar_usuario():
+    # TODO: Tu trabajo
+    pass
+
+def borrar_usuario():
+    # TODO: Tu trabajo
+    pass
+
+# Aquí abajo irá el menú principal (While / If / Elif) para conectar todo
