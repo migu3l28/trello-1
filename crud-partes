@@ -1,0 +1,16 @@
+# funciones_crud.py
+
+# --- TRABAJO DE MIGUEL ---
+def crear_registro(datos):
+    pass  # Aquí tu compañero programará la lógica de creación
+
+def leer_registros():
+    pass  # Aquí tu compañero programará la lógica de lectura
+
+
+# --- TRABAJO DE SOFIA ---
+def actualizar_registro(id_registro):
+    pass  # Aquí programarás tú la actualización
+
+def borrar_registro(id_registro):
+    pass  # Aquí programarás tú el borrado
